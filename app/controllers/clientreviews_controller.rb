@@ -1,0 +1,2 @@
+class ClientreviewsController < ApplicationController
+end
